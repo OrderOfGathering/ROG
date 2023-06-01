@@ -128,6 +128,7 @@ ___
 2. It is strictly forbidden to leak (show and/or mention) any private data.
 3. The Terms of Service of all Streaming Services and VoD Services shall be respected.
 4. The Code of Conduct of all Creators shall be respected.
+___
 # 4th Addendum: Events (A4)
 ## Section 1: Definitions
 1. "Attendee" refers to any User attending or taking part in an Event.
@@ -162,6 +163,7 @@ ___
 1. Wearing clothes displaying a brand logo is allowed, even if those clothing items are sponsored.
 2. Users shall not represent personal sponsors as to seem as sponsors of the Server or the Event.
 3. Names or logos of personal sponsors may not be placed next to logos or names of sponsors of the Server or the Event.
+___
 # 5th Addendum: Available Roles and Channels, other Servers in the Network (A5)
 ## Section 1: Available Channels
 ### Subsection 1: City Gate
