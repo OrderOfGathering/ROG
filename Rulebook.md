@@ -63,7 +63,7 @@
 2. If a former Guest later decides to rejoin the Server they may regain their roles and privileges through normal processes.
 3. If a former Member later decides to rejoin the Server they may request the Members to vote to reinstate their former status. This request shall be made with the Team. All other privileges and special duties may be regained through normal process.
 ___
-# 1st Addendum: Disciplinary Action
+# 1st Addendum: Disciplinary Action (A1)
 ## Section 1: Types of Infractions
 1. There are minor and major infractions.
 ___
