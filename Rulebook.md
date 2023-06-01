@@ -1,5 +1,4 @@
-<h1> <img src="icon.png" width=25px/> Rulebook of Gathering (RoG)</h1>
-
+# Rulebook of Gathering (RoG)
 ## Article I: General Provisions
 ### Section 1: Purpose and Scope
 1. The purpose of this rulebook is to establish guidelines and regulations for the operation and conduct within the Discord server "Order of Gathering" ("the Server").
@@ -182,9 +181,9 @@ ___
 - 🔊 Waiting Room
 - 🔊 The Yawning Portal
 - 🔊 The Snapping Line
-- 🔊 The Dark Crane \[LQ]
-- 🔊 Theatre \[live/rec]
-- 🔊 The Owl's Inn \[AFK]
+- 🔊 The Dark Crane \[LQ\]
+- 🔊 Theatre \[live/rec\]
+- 🔊 The Owl's Inn \[AFK\]
 ### Subsection 5: Chats
 - \#chat
 - \#gallery
