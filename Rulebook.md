@@ -1,4 +1,5 @@
-# Rulebook of Gathering (RoG)
+<h1> <img src="icon.png" width=25px/> Rulebook of Gathering (RoG)</h1>
+
 ## Article I: General Provisions
 ### Section 1: Purpose and Scope
 1. The purpose of this rulebook is to establish guidelines and regulations for the operation and conduct within the Discord server "Order of Gathering" ("the Server").
@@ -82,17 +83,17 @@ ___
 3. Members gain early access to registration for Events.
 ## Section 4: Membership Duties
 1. Members shall participate in all votes.
-## Section 5: Voting Methods and Procedures 
+## Section 5: Voting Methods and Procedures
 1. There are two types of voting for members. A standard voting specified in § 6 and a special voting specified in § 7.
 2. A special voting shall be held when voting on these topics:
    - Adding a new server into the Network
    - Approving new members for the Team
    - Revoking membership of a User
-   - ___// add other options if necessary___
-3. For any voting not specified in 2. a standard voting shall be held. 
+   - __// add other options if necessary__
+3. For any voting not specified in 2. a standard voting shall be held.
 ## Section 6: Standard Member Voting
 1. In a standard voting Members can give a positive, negative and a neutral vote.
-2. A standard voting shall be passed if there is at least one more positive vote than there are negative votes. 
+2. A standard voting shall be passed if there is at least one more positive vote than there are negative votes.
 3. A standard voting shall be held for 168 hours (7 days).
 ## Section 7: Special Member Voting
 1. In a special voting Members can give a positive, negative and a neutral vote.
@@ -100,9 +101,9 @@ ___
 3. A special voting shall be held for at least 336 hours (14 days).
 ## Section 8: End of Membership
 1. If a Member does not participate in 4 consecutive votes, any Member may challenge their Membership. This challenge can happen anonymously by contacting the Team through proper channels as well as publicly in a member exclusive channel.
-	1. After being challenged, the challenged Member may post a statement as to why they did not participate in votes.
-	2. 7 days after the Membership being challenged a special vote will be held, regardless of whether the challenged Member has posted a statement.
-	3. If the vote is passed the challenged Member's Membership will be revoked. They may be proposed to regain their Membership after not less than 60 days after their Membership has been revoked.
+    1. After being challenged, the challenged Member may post a statement as to why they did not participate in votes.
+    2. 7 days after the Membership being challenged a special vote will be held, regardless of whether the challenged Member has posted a statement.
+    3. If the vote is passed the challenged Member's Membership will be revoked. They may be proposed to regain their Membership after not less than 60 days after their Membership has been revoked.
 2. If a Member is found guilty of a major infraction they may be stripped of their Membership for at least 90 days.
 ___
 # 3rd Addendum: The Theatre (A3)
@@ -117,12 +118,12 @@ ___
 8. "Collaborator" refers to any User using the Theatre who is not a Creator.
 ## Section 2: Scope of the Theatre
 1. The purpose of the Theatre is to establish a voice channel where Creators and Collaborators can safely collaborate on Content.
-2. The Theatre can used by all Users, even while not creating Content themselves. 
+2. The Theatre can used by all Users, even while not creating Content themselves.
 ## Section 3: Consequences of using the Theatre
 1. All Streamers and Collaborators using the Theatre agree that the following data may be published to a Streaming Service or a VoD Service:
-	- The Streamer's/Collaborator's voice 
-	- The Streamer's/Collaborator's profile picture and display name on Discord (server-specific)
-	- The Streamer's/Collaborator's camera image and live streams published to the Theatre.
+    - The Streamer's/Collaborator's voice
+    - The Streamer's/Collaborator's profile picture and display name on Discord (server-specific)
+    - The Streamer's/Collaborator's camera image and live streams published to the Theatre.
 ## Section 4: Code of Conduct
 1. The Code of Conduct in Art. II, RoG also applies to the Theatre. This section only extends on Art. II, RoG.
 2. It is strictly forbidden to leak (show and/or mention) any private data.
@@ -147,8 +148,8 @@ ___
 8. Alcohol or any other kind of legal drugs shall only be consumed in placed allowed by the Organizers and Venues. Please consume responsibly.
 9. Inciting disregard for this Code of Conduct is strictly forbidden and will lead to exclusion from the Event, all future Events as well as the Server and the Network.
 ## Section 4: Content Creation Guidelines
-1. Except by clear, prior consent from the Organizer or appropriate clear signage, live streaming from/recording in lounges and from parties is prohibited. These locations are intended to serve as safe rest areas for our Members and Team to socialize with friends and acquaintances without interruption. Attendees are asked to respect this. 
-2. If an Attendee takes a video, photo or vlog, they are required to be respectful of their surroundings and seek permission from anyone featured in their video, vlog or photo and must refrain from this activity if asked. 
+1. Except by clear, prior consent from the Organizer or appropriate clear signage, live streaming from/recording in lounges and from parties is prohibited. These locations are intended to serve as safe rest areas for our Members and Team to socialize with friends and acquaintances without interruption. Attendees are asked to respect this.
+2. If an Attendee takes a video, photo or vlog, they are required to be respectful of their surroundings and seek permission from anyone featured in their video, vlog or photo and must refrain from this activity if asked.
 3. Failure to comply with this rule will be considered a violation of our Code of Conduct.
 ## Section 5: Photography Guidelines
 1. The Organizers encourage Attendees to take photos and share them. The Organizers will also document the event so that photos can be shared and post these materials on the Server's social media accounts. Everyone (including the Organizers) is required to follow these rules.
@@ -158,7 +159,7 @@ ___
 1. Upon entering the Venue, the Attendee provides irrevocable consent to the Organizer, its legal successors, assignees and licensees to capture photographs and/or record videos of them, and to utilize said photographs and/or recordings for any purpose, including promotional activities and sales related to the Organizer. Such consent is not subject to any temporal limitations and encompasses all forms of media. All photographs and recordings shall remain the sole property of the Organizer.
 2. Furthermore, by providing consent, the Attendee absolves the Organizer, as well as their legal successors, assignees, and licensees, from any liability associated with the utilization of said photographs and recordings.
 3. If the Attendee does not agree to the aforementioned conditions, it is imperative that they refrain from entering the Venue and participating in the Event.
-## Section 7: Brand Representation and sponsorships
+## Section 7: Brand Representation and Sponsorships
 1. Wearing clothes displaying a brand logo is allowed, even if those clothing items are sponsored.
 2. Users shall not represent personal sponsors as to seem as sponsors of the Server or the Event.
 3. Names or logos of personal sponsors may not be placed next to logos or names of sponsors of the Server or the Event.
@@ -192,7 +193,7 @@ ___
 - \#code-spam
 - \#spam
 ### Subsection 6: Member's Private Channels
-- up to 1 voice chat for every member
+- up to 1 voice chat for each member
 ### Subsection 7: Game Room
 - \#game-room
 - \#1-word-story
@@ -251,7 +252,7 @@ ___
 - any
 - none
 ## Section 3: Other Servers in the Network
-- Gatherered Studyroom
+- Gathered Study Room
 - Several Gameservers hosted by Members (mostly online based on demand and availability)
 ## Section 4: Former Channels
 ### Subsection 1: City Gate
