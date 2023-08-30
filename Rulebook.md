@@ -26,7 +26,7 @@
 3. NSFW (Not Safe for Work) or explicit content is strictly prohibited within the Server.
 ### Section 3: Communication in Voice Channels
 1. Users are strictly prohibited from artificially changing their voice, such as through the use of voice distorters or similar means.
-2. The Server provides a dedicated Bot for music playback. It is strictly forbidden to play music through mobile phones, MP3 players, or any other external devices.
+2. It is strictly forbidden to play music through mobile phones, MP3 players, or any other external devices.
 3. Users are required to keep their voices at normal conversational levels, ensuring a pleasant experience for all participants.
 4. Whenever possible, users should choose a language that is understood by all participants in their respective channels.
 ### Section 4: Advertising and Self-Promotion
@@ -69,17 +69,17 @@ ___
 3. Repeated minor infractions may qualify as major infractions.
 ## Section 2: Types of Disciplinary Action
 1. The Team may punish infractions with different types of disciplinary actions:
-	1. Server Mute: The punished User is no longer able to use their microphone, but can still listen to voice chats and use the chat function.
-	2. Timeout: The punished user is no longer able to connect to voice chats and write or react in text chats.
-	3. Server Kick: The user is kicked from the server, but may rejoin after reflecting on their behavior.
-	4. Temporary Network Ban: The user is banned from the network and cannot rejoin. They will be unbanned after an amount of time determined by the Team.
-	5. Network Ban: The user is banned from the network and cannot rejoin. Users may request to be unbanned after 90 days by writing an email to admin@order-of-gathering.de or writing a discord direct message to @orderofgathering.
-		1. The Team is expected to justly decide whether the unbanning request shows reasonable growth of character.
-2. The Team determines which type of disciplinary action is justified for an infraction within their autonomous discretion.1.   
+    1. Server Mute: The punished User is no longer able to use their microphone, but can still listen to voice chats and use the chat function.
+    2. Timeout: The punished user is no longer able to connect to voice chats and write or react in text chats.
+    3. Server Kick: The user is kicked from the server, but may rejoin after reflecting on their behavior.
+    4. Temporary Network Ban: The user is banned from the network and cannot rejoin. They will be unbanned after an amount of time determined by the Team.
+    5. Network Ban: The user is banned from the network and cannot rejoin. Users may request to be unbanned after 90 days by writing an email to [admin@order-of-gathering.de](mailto:admin@order-of-gathering.de) or writing a discord direct message to @orderofgathering.
+        1. The Team is expected to justly decide whether the unbanning request shows reasonable growth of character.
+2. The Team determines which type of disciplinary action is justified for an infraction within their autonomous discretion.
 3. The Team is expected to choose an appropriate disciplinary action.
 ## Section 3: Challenging Disciplinary Action
 1. Users who receive disciplinary action may challenge their punishment, if the punishment has an effect for longer than 7 days.
-2. To challenge their punishment the User shall contact the Team via email at admin@order-of-gathering.de or via direct message to @orderofgathering.
+2. To challenge their punishment the User shall contact the Team via email at [admin@order-of-gathering.de](mailto:admin@order-of-gathering.de) or via direct message to @orderofgathering.
 3. After receiving a message challenging disciplinary action there will be a standard member voting as specified in A2 §6.
 4. If the members decide that the punishment was not justified any disciplinary action taken will be undone.
 ___
@@ -150,7 +150,7 @@ ___
 2. "Organizer" refers to the Team or any other entity organizing Events in the name of the Server.
 3. "Venue" refers to any location an Event takes place.
 ## Section 2: Members
-1. Members may get early access to registration.
+1. Members get early access to registration.
 2. Members may get special perks if stated in the invitation. If no special perks are stated, Guests and Members shall be deemed equal at the Event.
 ## Section 3: Code of Conduct
 1. The Code of Conduct in Art. II, RoG also applies to all Events. This section only extends on Art. II, RoG.
