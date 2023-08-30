@@ -173,7 +173,6 @@ ___
 ### Subsection 2: Town Hall (formerly Message Board)
 - \#announcements
 - \#rule-book
-- \#sign-in
 ### Subsection 3: The Tent (Members only)
 - \#votes
 - \#organizational-matters
@@ -181,11 +180,12 @@ ___
 - \#private-gallery
 ### Subsection 4: Town Square (formerly Town)
 - 🔊 Waiting Room
+- 🔊 \[Move Me] Waiting Room
 - 🔊 The Yawning Portal
 - 🔊 The Snapping Line
-- 🔊 The Dark Crane \[LQ\]
-- 🔊 Theatre \[live/rec\]
-- 🔊 The Owl's Inn \[AFK\]
+- 🔊 The Dark Crane \[LQ]
+- 🔊 Theatre \[live/rec]
+- 🔊 The Owl's Inn \[AFK]
 ### Subsection 5: Chats
 - \#chat
 - \#gallery
@@ -194,7 +194,7 @@ ___
 - \#code-spam
 - \#spam
 ### Subsection 6: Member's Private Channels
-- up to 1 voice chat for each member
+- up to 1 voice chat for every member
 ### Subsection 7: Game Room
 - \#game-room
 - \#1-word-story
@@ -237,7 +237,27 @@ ___
 - Teamfight Tactics
 - SCP
 - Shooter
-### Pronoun Roles
+## Section 3: Other Servers in the Network
+- Gatherered Studyroom
+- Several Gameservers hosted by Members (mostly online based on demand and availability)
+## Section 4: Former Channels
+### Subsection 1: City Gate
+- \#channel-overview
+  (Replaced by 5th Addendum to the Rulebook of Gathering, 1st Revision of %date&)
+  ### Subsection 2: Town Hall (formerly Message Board)
+- \#sign-in
+  (Removed with the introduction of the Channels & Roles tab, 30.08.2023)
+### Subsection 5: Chats
+- \#voice-related
+  (Deprecated with the introduction of text channels in voice chats on Discord, 01.06.2022, archived as \#deprecated-voice-related)
+### Subsection 8: Gaming Channels
+- \#shooter
+  (Deprecated with the introduction of forum channels on Discord, archived as \#deprecated-shooter)
+- \#minecraft
+  (Deprecated with the introduction of forum channels on Discord, archived as \#deprecated-minecraft)
+## Section 5: Former Roles
+### Pronoun Roles 
+(Deprecated with the introduction of the pronoun profile field on Discord, 30..08.2023) 
 #### German
 - er
 - sie
@@ -252,19 +272,3 @@ ___
 - they
 - any
 - none
-## Section 3: Other Servers in the Network
-- Gathered Study Room
-- Several Gameservers hosted by Members (mostly online based on demand and availability)
-## Section 4: Former Channels
-### Subsection 1: City Gate
-- \#channel-overview
-  (Replaced by 5th Addendum to the Rulebook of Gathering, 1st Revision of %date&)
-### Subsection 5: Chats
-- \#voice-related
-  (Deprecated with the introduction of text channels in voice chats on Discord, 01.06.2022, archived as \#deprecated-voice-related)
-### Subsection 8: Gaming Channels
-- \#shooter
-  (Deprecated with the introduction of forum channels on Discord, archived as \#deprecated-shooter)
-- \#minecraft
-  (Deprecated with the introduction of forum channels on Discord, archived as \#deprecated-minecraft)
-## Section 5: Former Roles
