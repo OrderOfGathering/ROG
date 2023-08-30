@@ -65,6 +65,23 @@ ___
 # 1st Addendum: Disciplinary Action (A1)
 ## Section 1: Types of Infractions
 1. There are minor and major infractions.
+2. The determination of whether an infraction qualifies as a major or minor infraction rests with the Team, exercised within their autonomous discretion.
+3. Repeated minor infractions may qualify as major infractions.
+## Section 2: Types of Disciplinary Action
+1. The Team may punish infractions with different types of disciplinary actions:
+	1. Server Mute: The punished User is no longer able to use their microphone, but can still listen to voice chats and use the chat function.
+	2. Timeout: The punished user is no longer able to connect to voice chats and write or react in text chats.
+	3. Server Kick: The user is kicked from the server, but may rejoin after reflecting on their behavior.
+	4. Temporary Network Ban: The user is banned from the network and cannot rejoin. They will be unbanned after an amount of time determined by the Team.
+	5. Network Ban: The user is banned from the network and cannot rejoin. Users may request to be unbanned after 90 days by writing an email to admin@order-of-gathering.de or writing a discord direct message to @orderofgathering.
+		1. The Team is expected to justly decide whether the unbanning request shows reasonable growth of character.
+2. The Team determines which type of disciplinary action is justified for an infraction within their autonomous discretion.1.   
+3. The Team is expected to choose an appropriate disciplinary action.
+## Section 3: Challenging Disciplinary Action
+1. Users who receive disciplinary action may challenge their punishment, if the punishment has an effect for longer than 7 days.
+2. To challenge their punishment the User shall contact the Team via email at admin@order-of-gathering.de or via direct message to @orderofgathering.
+3. After receiving a message challenging disciplinary action there will be a standard member voting as specified in A2 §6.
+4. If the members decide that the punishment was not justified any disciplinary action taken will be undone.
 ___
 # 2nd Addendum: Membership (A2)
 ## Section 1: Definitions
@@ -87,7 +104,6 @@ ___
    - Adding a new server into the Network
    - Approving new members for the Team
    - Revoking membership of a User
-   - __// add other options if necessary__
 3. For any voting not specified in 2. a standard voting shall be held.
 ## Section 6: Standard Member Voting
 1. In a standard voting Members can give a positive, negative and a neutral vote.
