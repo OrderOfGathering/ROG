@@ -14,8 +14,7 @@
 6. "Discord" refers to the Discord application and platform.
 7. If the Server is mentioned as an acting entity, "Server" refers to the Discord account owning the Server which can be used by the Team.
 ### Section 3: User Duties Upon Joining
-1. Users shall choose roles representing their pronouns in \#sign-in. If the Users preferred pronouns are not available they shall contact the Team through proper channels.
-2. Users shall inform themselves on these rules.
+1. Users shall inform themselves on these rules.
 ## Article II: Code of Conduct
 ### Section 1: Respectful Behavior
 1. Users shall conduct themselves with respect, courtesy, and fairness towards others within the Server.
