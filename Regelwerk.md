@@ -107,11 +107,11 @@ ___
    - Aufhebung der Mitgliedschaft eines Benutzers
 3. Für jede Abstimmung, die in 2. nicht aufgeführt ist, wird eine Standardabstimmung abgehalten.
 ## Abschnitt 6: Ordentliche Mitgliederabstimmung
-1. Bei einer ordentlichen Mitgliederabstimmung können Mitglieder eine positive, negative und neutrale Stimme abgeben.
+1. Bei einer ordentlichen Mitgliederabstimmung können Mitglieder eine positive, negative oder neutrale Stimme abgeben.
 2. Eine ordentliche Mitgliederabstimmung gilt als erfolgreich, wenn es mindestens eine positive Stimme mehr gibt als negative Stimmen.
 3. Eine ordentliche Mitgliederabstimmung dauert 168 Stunden (7 Tage).
 ## Abschnitt 7: Außerordentliche Mitgliederabstimmung
-1. Bei einer außerordentlichen Mitgliederabstimmung können Mitglieder eine positive, negative und neutrale Stimme abgeben.
+1. Bei einer außerordentlichen Mitgliederabstimmung können Mitglieder eine positive, negative oder neutrale Stimme abgeben.
 2. Eine außerordentliche Mitgliederabstimmung  gilt als erfolgreich, wenn es mehr als doppelt so viele positive Stimmen wie negative Stimmen gibt.
 3. Eine außerordentliche Mitgliederabstimmung dauert mindestens 336 Stunden (14 Tage).
 ## Abschnitt 8: Beendigung der Mitgliedschaft

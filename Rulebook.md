@@ -106,11 +106,11 @@ ___
    - Revoking membership of a User
 3. For any voting not specified in 2. a standard voting shall be held.
 ## Section 6: Standard Member Voting
-1. In a standard voting Members can give a positive, negative and a neutral vote.
+1. In a standard voting Members can give a positive, negative or a neutral vote.
 2. A standard voting shall be passed if there is at least one more positive vote than there are negative votes.
 3. A standard voting shall be held for 168 hours (7 days).
 ## Section 7: Special Member Voting
-1. In a special voting Members can give a positive, negative and a neutral vote.
+1. In a special voting Members can give a positive, negative or a neutral vote.
 2. A special voting shall be passed if there are more than twice as many positive votes as negative votes.
 3. A special voting shall be held for at least 336 hours (14 days).
 ## Section 8: End of Membership
