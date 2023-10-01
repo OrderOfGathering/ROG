@@ -184,3 +184,4 @@ ___
 ## Abschnitt 1: Andere Server im Netzwerk
 - Gathered Studyroom
 - Mehrere von Mitgliedern gehostete Spielserver (online je nach Bedarf und Verfügbarkeit)
+- Eine Mastodon-Instanz (mastodon.order-of-gathering.de)

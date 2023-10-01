@@ -183,3 +183,4 @@ ___
 ## Section 1: Other Servers in the Network
 - Gatherered Studyroom
 - Several Gameservers hosted by Members (mostly online based on demand and availability)
+- A Mastodon instance (mastodon.order-of-gathering.de)
