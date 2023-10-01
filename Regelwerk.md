@@ -157,7 +157,7 @@ ___
 1. Der Verhaltenskodex in Artikel II, RoG gilt auch für alle Veranstaltungen. Dieser Abschnitt erweitert Artikel II, RoG lediglich.
 2. Das Missachten des Verhaltenskodexes kann zum Ausschluss des Teilnehmers von der Veranstaltung und einigen oder allen zukünftigen Veranstaltungen führen. Je nach Schwere des Verstoßes können auch  Konsequenzen auf dem Server folgen.
 3. Das Tragen von Waffen jeglicher Art – selbst von Attrappen – ist strengstens verboten.
-4. Das Mitführen von illegalen Substanzen oder Drogen jeglicher Art ist strengstens verboten.
+4. Das Mitführen von illegalen Substanzen jeglicher Art ist strengstens verboten.
 5. Teilnehmer müssen sich an die Richtlinien zur Inhaltserstellung gemäß § 4 und § 5 halten.
 6. Die Androhung oder Anwendung jeglicher Form von Gewalt ist strengstens verboten.
 7. Die Androhung oder Ausübung jeglicher Form von unerwünschtem körperlichem Kontakt, (sexueller) Belästigung oder Diskriminierung ist strengstens verboten.

@@ -156,7 +156,7 @@ ___
 1. The Code of Conduct in Art. II, RoG also applies to all Events. This section only extends on Art. II, RoG.
 2. Disregarding the Code of Conduct may lead to the Attendee being excluded from the Event and some or all future Events. Depending on the severity of the infraction, Attendees may also face consequences on the Server.
 3. Carrying any kind of weapon – even fake ones – is strictly forbidden.
-4. Carrying any kind of illegal substances or drugs is strictly forbidden.
+4. Carrying any kind of illegal substance is strictly forbidden.
 5. Attendees shall respect the content creation guidelines laid out in § 4 and § 5.
 6. The threat or exercise of any form of violence is strictly forbidden.
 7. The threat or practice of any form of unwanted physical contact, (sexual) harassment or discrimination is strictly forbidden.
