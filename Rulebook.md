@@ -89,8 +89,8 @@ ___
 2. "Candidate" refers to a Guest who was proposed to be voted into Membership.
 ## Section 2: Gaining Membership
 1. Membership is reserved to respected Users who regularly interact with the Server and are known to respect the Code of Conduct.
-2. Members can propose Users to be voted into Membership, making the respective User a Candidate. This vote is a standard member voting as specified in § 6.
-3. If this vote is passed the Candidate will be invited by the Server to become a Member.
+2. Members can nominate Users to be voted into Membership, making the respective User a Candidate. This vote is a standard member voting as specified in § 6.
+3. If this vote is passed the Candidate will be invited by the Server to become a Member. If not, the candidate can be nominated again after 14 days at the earliest.
 4. If the Candidate accepts this invitation, they will be granted Membership and the benefits and privileges connected to it.
 ## Section 3: Membership Benefits and Privileges
 1. Members have access to exclusive text channels.
