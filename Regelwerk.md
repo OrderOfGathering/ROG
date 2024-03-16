@@ -91,7 +91,7 @@ ___
 ## Abschnitt 2: Erlangen der Mitgliedschaft
 1. Die Mitgliedschaft ist angesehenen Benutzern vorbehalten, die regelmäßig mit dem Server interagieren und dafür bekannt sind, dass sie den Verhaltenskodex respektieren.
 2. Mitglieder können Benutzer vorschlagen, die in die Mitgliedschaft gewählt werden sollen, wodurch der betreffende Benutzer zu einem Kandidaten wird. Diese Abstimmung ist eine normale Mitgliederabstimmung, wie in § 6 beschrieben.
-3. Wenn diese Abstimmung erfolgreich ausfällt, wird der Kandidat vom Server eingeladen, Mitglied zu werden.
+3. Wenn diese Abstimmung erfolgreich ausfällt, wird der Kandidat vom Server eingeladen, Mitglied zu werden. Wenn nicht, kann der Kandidat frühestens nach 14 Tagen erneut vorgeschlagen werden.
 4. Wenn der Kandidat diese Einladung annimmt, erhält er die Mitgliedschaft und die damit verbundenen Vorteile und Privilegien.
 ## Abschnitt 3: Vorteile und Privilegien der Mitgliedschaft
 1. Mitglieder haben Zugang zu exklusiven Textkanälen.
